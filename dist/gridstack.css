@@ -369,6 +369,7 @@
   transition: left 0s, top 0s, height 0s, width 0s;
 }
 
+/*
 @media (max-width: 768px) {
   .grid-stack-item {
     position: relative !important;
@@ -383,4 +384,4 @@
   .grid-stack {
     height: auto !important;
   }
-}
+}*/
